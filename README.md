@@ -1,1 +1,1 @@
-# zoomus_sdk_device
+# zoomus sdk for iOS device
